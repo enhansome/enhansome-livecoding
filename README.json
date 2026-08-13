@@ -1,0 +1,1299 @@
+{
+  "items": [
+    {
+      "description": "Quoting Wikipedia",
+      "items": [],
+      "title": "What is live coding"
+    },
+    {
+      "description": "(In Alphabetical Order)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alda",
+          "description": "A music programming language for musicians.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T23:51:18Z",
+            "owner": "alda-lang",
+            "repo": "alda",
+            "stars": 5938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORCΛ",
+          "description": "An esoteric live coding environment with two-dimensional syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T18:19:05Z",
+            "owner": "hundredrabbits",
+            "repo": "Orca",
+            "stars": 5061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hydra",
+          "description": "Live Coding networked visuals in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-25T13:24:14Z",
+            "owner": "hydra-synth",
+            "repo": "hydra",
+            "stars": 2689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwion",
+          "description": ":musical_note: strongly-timed musical programming language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-10T23:10:02Z",
+            "owner": "Gwion",
+            "repo": "Gwion",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "afterglow",
+          "description": "A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-21T05:12:00Z",
+            "owner": "Deep-Symmetry",
+            "repo": "afterglow",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WASM-music",
+          "description": "A live-coding environment for performance, composition and synthesis in the web-browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T18:34:20Z",
+            "owner": "petersalomonsen",
+            "repo": "javascriptmusic",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mutate4l",
+          "description": "Live coding integrated into Ableton Live's session view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-07T09:50:19Z",
+            "owner": "carrierdown",
+            "repo": "mutateful",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mercury",
+          "description": "Mercury Playground - A highly abstracted minimal language for the live coding of algorithmic music, designed to make code more accessible for both the performer and the audience. Runs in Max or the Browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Max",
+            "last_commit": "2026-08-07T16:54:11Z",
+            "owner": "tmhglnd",
+            "repo": "mercury",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sardine",
+          "description": "A Python based live coding library (MIDI/OSC/SuperDirt).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-19T20:45:01Z",
+            "owner": "Bubobubobubobubo",
+            "repo": "sardine",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skoar",
+          "description": "A high-level language for coding music with SuperCollider. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2015-12-14T19:45:17Z",
+            "owner": "sofakid",
+            "repo": "Skoarcery",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sema",
+          "description": "Sema – A Playground for Live Coding Music and Machine Learning. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-01-27T00:22:25Z",
+            "owner": "mimic-sussex",
+            "repo": "sema",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "line",
+          "description": "A tiny command-line midi sequencer and language for live coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-11T17:25:49Z",
+            "owner": "pd3v",
+            "repo": "line",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facet",
+          "description": "An open source livecoding environment in NodeJS with a text editor in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T02:52:41Z",
+            "owner": "nnirror",
+            "repo": "facet",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cane",
+          "description": "A small MIDI sequencer DSL designed around vectors and euclidean rhythms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-02-05T20:01:17Z",
+            "owner": "tarpit-collective",
+            "repo": "cane",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Punctual",
+          "description": "Browser-based, zero-installation, audiovisual live coding language (available in Estuary and as a standalone).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-21T20:58:09Z",
+            "owner": "dktr0",
+            "repo": "Punctual",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ixi lang",
+          "description": "An experimental project concerned with the creation of digital musical instruments and environments for generative music. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2015-03-05T21:10:01Z",
+            "owner": "thormagnusson",
+            "repo": "ixilang",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Negasonic",
+          "description": "Live coding in the browser with Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-08-11T06:27:52Z",
+            "owner": "merongivian",
+            "repo": "negasonic",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonlet",
+          "description": "Lua live coding. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-02-22T19:49:51Z",
+            "owner": "elihugarret",
+            "repo": "Moonlet",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mégra.rs",
+          "description": "A high-level, LISP-y live coding language implemented in Rust. Prominently features Markov chains.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-06-27T09:26:04Z",
+            "owner": "the-drunk-coder",
+            "repo": "megra.rs",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steno",
+          "description": "Concatenative little metalanguage for live coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2024-10-25T15:01:45Z",
+            "owner": "musikinformatik",
+            "repo": "Steno",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Limut",
+          "description": "Live code music and visuals in a web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:01:56Z",
+            "owner": "sdclibbery",
+            "repo": "limut",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeLines",
+          "description": "A modular synthesizer for live coding the flow of time. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-06-14T20:06:27Z",
+            "owner": "lnfiniteMonkeys",
+            "repo": "TimeLines-hs",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bacalao",
+          "description": "A live-coding library for SuperCollider inspired by Tidalcycles syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2025-05-26T11:17:52Z",
+            "owner": "totalgee",
+            "repo": "bacalao",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "re<urse",
+          "description": "A language for generating musical patterns. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-08-02T17:56:58Z",
+            "owner": "carrierdown",
+            "repo": "recurse",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krill",
+          "description": "Tidal cycle like live coding in NodeJS / Browser. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T08:20:12Z",
+            "owner": "Mdashdotdashn",
+            "repo": "krill",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinyspec",
+          "description": "A C++ live-coding environment for overlap-add (re)synthesis. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-07T16:04:01Z",
+            "owner": "nwoeanhinnogaehr",
+            "repo": "tinyspec-cling",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wulfcode",
+          "description": "A Midi live-coding environment for performance or composition. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-05-13T08:41:51Z",
+            "owner": "echolevel",
+            "repo": "wulfcode",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coypu",
+          "description": "A Pharo Smalltalk package for programming music on-the-fly with support for multiple audio servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-05T11:54:49Z",
+            "owner": "lucretiomsp",
+            "repo": "Coypu",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocoMotion",
+          "description": "A browser-based language for live coding dance, choreography, and 3D visuals (available in Estuary and as a standalone).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2026-07-20T21:04:14Z",
+            "owner": "dktr0",
+            "repo": "LocoMotion",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeroone",
+          "description": "Multi-instrumental, polyphonic, \"DSLish\" API for live coding music in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-18T14:38:05Z",
+            "owner": "pd3v",
+            "repo": "zeroone",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repetition.sc",
+          "description": "A set of tools to build a SequenceableCollection of Events. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2018-12-14T05:52:51Z",
+            "owner": "lvm",
+            "repo": "Repetition.sc",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serialist",
+          "description": "A live coding environment that generates MIDI messages. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-26T18:21:41Z",
+            "owner": "irritant",
+            "repo": "serialist",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinalla",
+          "description": "Framework Regex based for language parsing written in javascript. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T02:44:42Z",
+            "owner": "rexmalebka",
+            "repo": "tinalla",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "synth-x",
+          "description": "An experimental live coding environment for making music created with modern web technologies. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-11T17:11:07Z",
+            "owner": "luiscript",
+            "repo": "synth-x",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atomiix",
+          "description": "A re-implementation and re-invigoration of ixi lang. (inactive)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Improviz",
+          "description": "An environment for using and abusing primitive shapes and animated textures. (inactive/deprecated)",
+          "children": []
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "(Also in Alphabetical Order)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "glslViewer",
+          "description": "Live GLSL coding render for macOS and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T22:09:44Z",
+            "owner": "patriciogonzalezvivo",
+            "repo": "glslViewer",
+            "stars": 5320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonzomatic",
+          "description": "GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-18T15:22:03Z",
+            "owner": "Gargaj",
+            "repo": "Bonzomatic",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ronin",
+          "description": "LISP repl for graphics livecoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-16T00:49:10Z",
+            "owner": "hundredrabbits",
+            "repo": "Ronin",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blink",
+          "description": "A library which allows you to edit source code of any Windows C++ project live at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-18T22:11:42Z",
+            "owner": "crosire",
+            "repo": "blink",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HYLOGEN",
+          "description": "An embedding of GLSL in Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-15T11:30:54Z",
+            "owner": "sleexyz",
+            "repo": "hylogen",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strudel.nvim",
+          "description": "A Neovim based Strudel controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-10T00:42:58Z",
+            "owner": "gruvw",
+            "repo": "strudel.nvim",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jet-live",
+          "description": "A library which implements c++ hot code reload approach for Linux and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-02T14:35:08Z",
+            "owner": "ddovod",
+            "repo": "jet-live",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isobar",
+          "description": "A Python library for algorithmic composition by expressing and constructing musical patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T14:13:52Z",
+            "owner": "ideoforms",
+            "repo": "isobar",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supriya",
+          "description": "A Python API for SuperCollider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T05:31:10Z",
+            "owner": "supriya-project",
+            "repo": "supriya",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Troop",
+          "description": "Real-time collaborative live coding with FoxDot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-19T19:45:08Z",
+            "owner": "Qirky",
+            "repo": "Troop",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IBNIZ",
+          "description": "A virtual machine for extremely compact low-level audiovisual programs, designed for demoscene productions and glitch art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-12T00:41:58Z",
+            "owner": "viznut",
+            "repo": "IBNIZ",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arepl",
+          "description": "Live coding Python in VSCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:17:39Z",
+            "owner": "Almenon",
+            "repo": "AREPL-vscode",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "P5LIVE",
+          "description": "p5.js collaborative live-coding vj environment!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-03T21:40:24Z",
+            "owner": "ffd8",
+            "repo": "P5LIVE",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cl-collider",
+          "description": "A SuperCollider client for CommonLisp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-11T12:39:38Z",
+            "owner": "byulparan",
+            "repo": "cl-collider",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gibberwocky",
+          "description": "Use Gibber inside Max/MSP and Max4Live.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-04T00:25:37Z",
+            "owner": "gibber-cc",
+            "repo": "gibberwocky",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Siren",
+          "description": "A tracker interface that embodies abstractions where programming is realized as the medium for pattern sequencing in a modular fashion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-11T17:24:48Z",
+            "owner": "cannc4",
+            "repo": "Siren",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiCK",
+          "description": "Library for ChucK, provides intervals, chords, scales, arpeggiators, patterns, effects, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ChucK",
+            "last_commit": "2026-02-05T18:33:36Z",
+            "owner": "heuermh",
+            "repo": "lick",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WavTexture",
+          "description": "A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-01-26T08:59:10Z",
+            "owner": "keijiro",
+            "repo": "WavTexture",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petal",
+          "description": "A small language on Sonic Pi with similar syntax to TidalCycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-04-24T11:55:09Z",
+            "owner": "siaflab",
+            "repo": "petal",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Coding Toolkit",
+          "description": "A suite of Pure Data abstractions (predefined functions) for musical live coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-13T00:31:23Z",
+            "owner": "algomusic",
+            "repo": "Live-Coding-Toolkit-for-Pure-Data",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disclojure",
+          "description": "A live coding environment for Overtone and Leipzig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-02-11T17:39:34Z",
+            "owner": "pjagielski",
+            "repo": "disclojure",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extramuros",
+          "description": "Language-neutral shared-buffer networked live coding system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-17T15:36:54Z",
+            "owner": "dktr0",
+            "repo": "extramuros",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lua2SC",
+          "description": "Lua client for superCollider scsynth and supernova.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-14T15:42:43Z",
+            "owner": "sonoro1234",
+            "repo": "Lua2SC",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveCore",
+          "description": "Library for live coding inside Reaktor Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-21T12:57:30Z",
+            "owner": "freeeco",
+            "repo": "livecore",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytebeat",
+          "description": "A piece of software for doing livecoding bytebeat performances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-09T18:30:42Z",
+            "owner": "kragen",
+            "repo": "pytebeat",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EspGrid",
+          "description": "Synchronization and sharing for network music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2020-06-17T15:44:21Z",
+            "owner": "dktr0",
+            "repo": "EspGrid",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TidalUnity",
+          "description": "An interface between TidalCycles and Unity 3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-01-27T05:47:04Z",
+            "owner": "moxuse",
+            "repo": "tidal-unity",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ANSIedad",
+          "description": "Generate visuals through a terminal emulator using ANSI escape codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-08T23:57:47Z",
+            "owner": "gabochi",
+            "repo": "ANSIedad",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tidal-Unity",
+          "description": "TidalCycles meets Unity 3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-03-21T10:58:56Z",
+            "owner": "lvm",
+            "repo": "Tidal-Unity",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidal-maxmsp",
+          "description": "Connecting the Tidal live coding environment to MaxMSP.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Max",
+            "last_commit": "2019-02-15T20:26:20Z",
+            "owner": "madskjeldgaard",
+            "repo": "tidal-maxmsp",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidebox",
+          "description": "TidalCycles live coding environment inside a Docker container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-03-01T20:14:11Z",
+            "owner": "DoubleDensity",
+            "repo": "tidebox",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHmUsiCK",
+          "description": "Library to make ChucK a 'more algorave like' language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ChucK",
+            "last_commit": "2023-09-27T17:46:01Z",
+            "owner": "celestebetancur",
+            "repo": "CHmUsiCK",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LÖVELive :two_hearts:",
+          "description": "Live coding framework for LÖVE(2D Game Engine).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-10-04T15:23:47Z",
+            "owner": "sharow",
+            "repo": "lovelive",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REPL Mode",
+          "description": "This mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-09-24T19:12:48Z",
+            "owner": "joelmoniz",
+            "repo": "REPLmode",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INSTRUMENT",
+          "description": "For live coding music and interfacing musical instruments and controllers in SuperCollider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2026-05-13T01:21:00Z",
+            "owner": "punksnotdev",
+            "repo": "INSTRUMENT",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s2hs2",
+          "description": "An interface between TidalCycles and Processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-06-11T01:53:43Z",
+            "owner": "yecto",
+            "repo": "s2hs2-TidalCycles-0.8-",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tida1vm",
+          "description": "Another TidalCycles environment inside Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-30T22:24:47Z",
+            "owner": "lvm",
+            "repo": "tida1vm",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p5-live",
+          "description": "Live Coding for p5.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-04T06:29:28Z",
+            "owner": "yangsu",
+            "repo": "p5-live",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidal-chord",
+          "description": "An add-on to the amazing live coding project TidalCycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2016-06-24T14:07:31Z",
+            "owner": "fp4me",
+            "repo": "tidal-chord",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cowbells",
+          "description": "A Clojure library for musical experimentation and live coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-12-20T15:58:16Z",
+            "owner": "omkamra",
+            "repo": "cowbells",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TidalFX",
+          "description": "A haskell package adding weirder effects to Tidal from non-standard UGens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2018-12-08T16:43:20Z",
+            "owner": "calumgunn",
+            "repo": "TidalFX",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sonic-pixels",
+          "description": "Interactive lighting effects for Sonic Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-07T23:16:22Z",
+            "owner": "emlyn",
+            "repo": "sonic-pixels",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaosBox",
+          "description": "A non-common live coding and algorave sequencer written with SuperCollider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2026-08-13T05:49:53Z",
+            "owner": "josecaos",
+            "repo": "caosbox",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dafxpipe",
+          "description": "Software for live coding audio effects and synths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-11-10T06:00:23Z",
+            "owner": "nwoeanhinnogaehr",
+            "repo": "dafxpipe",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "textmode.synth.js",
+          "description": "A hydra-inspired visual synthesis plugin for textmode.js that drives procedural ASCII/textmode animations through a chainable, WebGL-powered API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:40:27Z",
+            "owner": "humanbydefinition",
+            "repo": "textmode.synth.js",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diatonic",
+          "description": "Diatonic transforms for music making.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-26T15:34:56Z",
+            "owner": "pd3v",
+            "repo": "diatonic",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Republic",
+          "description": "SuperCollider library for conversational coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SuperCollider",
+            "last_commit": "2016-11-10T22:06:45Z",
+            "owner": "supercollider-quarks",
+            "repo": "Republic",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Libraries and tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "To Watch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Creative Coding",
+          "description": "Creative Coding, Generative Art, Interaction Design, Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T15:01:30Z",
+            "owner": "terkelg",
+            "repo": "awesome-creative-coding",
+            "stars": 15187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Audio visualization",
+          "description": "A curated list about Audio Visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T14:34:10Z",
+            "owner": "willianjusten",
+            "repo": "awesome-audio-visualization",
+            "stars": 5060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-musicdsp",
+          "description": "A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-30T16:10:00Z",
+            "owner": "olilarkin",
+            "repo": "awesome-musicdsp",
+            "stars": 2981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Music",
+          "description": "A categorized collection of awesome music libraries, tools, frameworks and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-27T20:46:02Z",
+            "owner": "noteflakes",
+            "repo": "awesome-music",
+            "stars": 2468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Live Coding Music",
+          "description": "A curated list of awesome Music Live Coding Music environments, libraries and talks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-20T11:10:44Z",
+            "owner": "pjagielski",
+            "repo": "awesome-live-coding-music",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome SuperCollider",
+          "description": "A curated list of SuperCollider stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-05-31T08:54:24Z",
+            "owner": "madskjeldgaard",
+            "repo": "awesome-supercollider",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TidalCycles",
+          "description": "An awesome list about the pattern-based live coding system TidalCycles (or just 'Tidal' for short) and its close relatives",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-02T06:55:48Z",
+            "owner": "tidalcycles",
+            "repo": "awesome-tidalcycles",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "This has been brought to you by these contributors.\n",
+      "items": [],
+      "title": "Acknowledgement"
+    },
+    {
+      "description": "This list follows the Contributor Covenant Code of Conduct v1.4.0, available here.\nTL;DR: Be nice to each other.",
+      "items": [],
+      "title": "Code of Conduct"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.\nTo the extent possible under law, Mauro Lizaur has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:41:13.582Z",
+    "original_repository": "toplap/awesome-livecoding",
+    "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
+    "enhanced_repository": "enhansome/enhansome-livecoding",
+    "enhanced_repository_description": null,
+    "title": "Awesome All things live coding with stars"
+  }
+}
