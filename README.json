@@ -19,7 +19,7 @@
             "last_commit": "2026-08-08T23:51:18Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5938
+            "stars": 5937
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5061
+            "stars": 5062
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-04-25T13:24:14Z",
             "owner": "hydra-synth",
             "repo": "hydra",
-            "stars": 2689
+            "stars": 2690
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2025-05-19T20:45:01Z",
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2025-08-11T17:25:49Z",
             "owner": "pd3v",
             "repo": "line",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -296,7 +296,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T23:01:56Z",
+            "last_commit": "2026-08-13T20:13:04Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -527,7 +527,7 @@
             "last_commit": "2025-02-18T15:22:03Z",
             "owner": "Gargaj",
             "repo": "Bonzomatic",
-            "stars": 1500
+            "stars": 1501
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-04-10T00:42:58Z",
             "owner": "gruvw",
             "repo": "strudel.nvim",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15187
+            "stars": 15193
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2468
+            "stars": 2469
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:41:13.582Z",
+    "last_updated": "2026-08-14T16:36:24.684Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
     "enhanced_repository": "enhansome/enhansome-livecoding",

@@ -72,15 +72,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 (In Alphabetical Order)
 
-* [Alda](https://github.com/alda-lang/alda) ⭐ 5,938 | 🐛 9 | 🌐 Go | 📅 2026-08-08 - A music programming language for musicians.
+* [Alda](https://github.com/alda-lang/alda) ⭐ 5,937 | 🐛 9 | 🌐 Go | 📅 2026-08-08 - A music programming language for musicians.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-* [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,061 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 - An esoteric live coding environment with two-dimensional syntax.
+* [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,062 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 - An esoteric live coding environment with two-dimensional syntax.
 
   `Windows | macOS | GNU/Linux` `audio` `FLOSS`
 
-* [hydra](https://github.com/hydra-synth/hydra) ⭐ 2,689 | 🐛 98 | 🌐 JavaScript | 📅 2026-04-25 - Live Coding networked visuals in the browser.
+* [hydra](https://github.com/hydra-synth/hydra) ⭐ 2,690 | 🐛 98 | 🌐 JavaScript | 📅 2026-04-25 - Live Coding networked visuals in the browser.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `visuals`
 
@@ -103,7 +103,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS` `Chrome | Firefox` `audio` `visuals` `MaxMSP` `JavaScript`
 
-* [Sardine](https://github.com/Bubobubobubobubo/Sardine) ⭐ 321 | 🐛 19 | 🌐 Python | 📅 2025-05-19 A Python based live coding library (MIDI/OSC/SuperDirt).
+* [Sardine](https://github.com/Bubobubobubobubo/Sardine) ⭐ 322 | 🐛 19 | 🌐 Python | 📅 2025-05-19 A Python based live coding library (MIDI/OSC/SuperDirt).
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
 
@@ -115,7 +115,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 
-* [line](https://github.com/pd3v/line) ⭐ 151 | 🐛 0 | 🌐 C++ | 📅 2025-08-11 - A tiny command-line midi sequencer and language for live coding.
+* [line](https://github.com/pd3v/line) ⭐ 152 | 🐛 0 | 🌐 C++ | 📅 2025-08-11 - A tiny command-line midi sequencer and language for live coding.
 
   `Windows | macOS | GNU/Linux` `c++` `FLOSS` `midi` `audio`
 
@@ -151,7 +151,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   ` macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
-* [Limut](https://github.com/sdclibbery/limut) ⭐ 70 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-12 - Live code music and visuals in a web browser.
+* [Limut](https://github.com/sdclibbery/limut) ⭐ 70 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-13 - Live code music and visuals in a web browser.
 
   `Google Chrome | Mozilla Firefox | Safari` `web` `JavaScript` `FLOSS` `audio` `visuals`
 
@@ -400,11 +400,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 (Also in Alphabetical Order)
 
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) ⭐ 5,320 | 🐛 70 | 🌐 C++ | 📅 2026-08-11 - Live GLSL coding render for macOS and Linux.
-* [Bonzomatic](https://github.com/Gargaj/Bonzomatic) ⭐ 1,500 | 🐛 26 | 🌐 C++ | 📅 2025-02-18 - GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
+* [Bonzomatic](https://github.com/Gargaj/Bonzomatic) ⭐ 1,501 | 🐛 26 | 🌐 C++ | 📅 2025-02-18 - GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
 * [Ronin](https://github.com/hundredrabbits/Ronin) ⭐ 1,228 | 🐛 15 | 🌐 HTML | 📅 2025-04-16 - LISP repl for graphics livecoding.
 * [blink](https://github.com/crosire/blink) ⭐ 1,179 | 🐛 8 | 🌐 C++ | 📅 2023-12-18 - A library which allows you to edit source code of any Windows C++ project live at runtime.
 * [HYLOGEN](https://github.com/sleexyz/hylogen) ⭐ 490 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - An embedding of GLSL in Haskell.
-* [strudel.nvim](https://github.com/gruvw/strudel.nvim) ⭐ 472 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-10 - A Neovim based Strudel controller.
+* [strudel.nvim](https://github.com/gruvw/strudel.nvim) ⭐ 473 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-10 - A Neovim based Strudel controller.
 * [jet-live](https://github.com/ddovod/jet-live) ⭐ 455 | 🐛 12 | 🌐 C++ | 📅 2026-03-02 - A library which implements c++ hot code reload approach for Linux and macOS.
 * [isobar](https://github.com/ideoforms/isobar) ⭐ 430 | 🐛 10 | 🌐 Python | 📅 2026-05-06 - A Python library for algorithmic composition by expressing and constructing musical patterns.
 * [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) ⭐ 404 | 🐛 17 | 🌐 Python | 📅 2026-05-25 - A Python API for SuperCollider.
@@ -535,10 +535,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Related lists
 
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,187 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,193 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,060 | 🐛 11 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
 * [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) ⭐ 2,981 | 🐛 6 | 📅 2026-05-30 - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,468 | 🐛 25 | 📅 2026-05-27 - A categorized collection of awesome music libraries, tools, frameworks and software.
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,469 | 🐛 25 | 📅 2026-05-27 - A categorized collection of awesome music libraries, tools, frameworks and software.
 * [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music) ⭐ 646 | 🐛 6 | 📅 2022-09-20 - A curated list of awesome Music Live Coding Music environments, libraries and talks.
 * [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) ⚠️ Archived - A curated list of SuperCollider stuff.
 * [Awesome TidalCycles](https://github.com/tidalcycles/awesome-tidalcycles) ⭐ 127 | 🐛 0 | 📅 2024-06-02 - An awesome list about the pattern-based live coding system TidalCycles (or just 'Tidal' for short) and its close relatives
@@ -546,7 +546,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Acknowledgement
 
-This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) ⭐ 3,265 | 🐛 5 | 📅 2026-08-10 [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors) ⭐ 3,265 | 🐛 5 | 📅 2026-08-10.
+This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) ⭐ 3,266 | 🐛 5 | 📅 2026-08-10 [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors) ⭐ 3,266 | 🐛 5 | 📅 2026-08-10.
 
 [<img src="https://avatars.githubusercontent.com/u/34095?v=4" height=50 width=50>](https://github.com/lvm)
 [<img src="https://avatars.githubusercontent.com/u/27940?v=4" height=50 width=50>](https://github.com/yaxu)
@@ -606,4 +606,4 @@ To the extent possible under law, [Mauro Lizaur](http://lvm.github.io) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
