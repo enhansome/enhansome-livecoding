@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-08T23:51:18Z",
+            "last_commit": "2026-08-15T01:43:05Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5937
+            "stars": 5939
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-04-25T13:24:14Z",
             "owner": "hydra-synth",
             "repo": "hydra",
-            "stars": 2690
+            "stars": 2692
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-07T16:54:11Z",
             "owner": "tmhglnd",
             "repo": "mercury",
-            "stars": 374
+            "stars": 377
           }
         },
         {
@@ -352,7 +352,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T08:20:12Z",
+            "last_commit": "2026-08-15T15:32:03Z",
             "owner": "Mdashdotdashn",
             "repo": "krill",
             "stars": 43
@@ -527,7 +527,7 @@
             "last_commit": "2025-02-18T15:22:03Z",
             "owner": "Gargaj",
             "repo": "Bonzomatic",
-            "stars": 1501
+            "stars": 1500
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-04-10T00:42:58Z",
             "owner": "gruvw",
             "repo": "strudel.nvim",
-            "stars": 473
+            "stars": 474
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2026-05-25T05:31:10Z",
             "owner": "supriya-project",
             "repo": "supriya",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-05-03T21:40:24Z",
             "owner": "ffd8",
             "repo": "P5LIVE",
-            "stars": 283
+            "stars": 282
           }
         },
         {
@@ -1126,7 +1126,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T17:40:27Z",
+            "last_commit": "2026-08-14T19:01:30Z",
             "owner": "humanbydefinition",
             "repo": "textmode.synth.js",
             "stars": 9
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15193
+            "stars": 15195
           }
         },
         {
@@ -1196,7 +1196,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5060
+            "stars": 5059
           }
         },
         {
@@ -1210,7 +1210,7 @@
             "last_commit": "2026-05-30T16:10:00Z",
             "owner": "olilarkin",
             "repo": "awesome-musicdsp",
-            "stars": 2981
+            "stars": 2982
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2469
+            "stars": 2471
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:36:24.684Z",
+    "last_updated": "2026-08-15T16:03:30.700Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
     "enhanced_repository": "enhansome/enhansome-livecoding",
