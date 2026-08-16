@@ -19,7 +19,7 @@
             "last_commit": "2026-08-15T01:43:05Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5939
+            "stars": 5940
           }
         },
         {
@@ -296,7 +296,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:13:04Z",
+            "last_commit": "2026-08-15T23:00:18Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -352,7 +352,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T15:32:03Z",
+            "last_commit": "2026-08-16T15:44:54Z",
             "owner": "Mdashdotdashn",
             "repo": "krill",
             "stars": 43
@@ -510,10 +510,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T22:09:44Z",
+            "last_commit": "2026-08-15T21:11:31Z",
             "owner": "patriciogonzalezvivo",
             "repo": "glslViewer",
-            "stars": 5320
+            "stars": 5321
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2026-08-10T23:17:39Z",
             "owner": "Almenon",
             "repo": "AREPL-vscode",
-            "stars": 299
+            "stars": 300
           }
         },
         {
@@ -1126,7 +1126,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:01:30Z",
+            "last_commit": "2026-08-16T10:45:18Z",
             "owner": "humanbydefinition",
             "repo": "textmode.synth.js",
             "stars": 9
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15195
+            "stars": 15198
           }
         },
         {
@@ -1196,7 +1196,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5059
+            "stars": 5060
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:03:30.700Z",
+    "last_updated": "2026-08-16T16:06:49.341Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
     "enhanced_repository": "enhansome/enhansome-livecoding",
