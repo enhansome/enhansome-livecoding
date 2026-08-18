@@ -19,7 +19,7 @@
             "last_commit": "2026-08-15T01:43:05Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5940
+            "stars": 5938
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5062
+            "stars": 5063
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-04-25T13:24:14Z",
             "owner": "hydra-synth",
             "repo": "hydra",
-            "stars": 2692
+            "stars": 2694
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-02-10T23:10:02Z",
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 583
+            "stars": 580
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-12T18:34:20Z",
             "owner": "petersalomonsen",
             "repo": "javascriptmusic",
-            "stars": 428
+            "stars": 427
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-17T15:02:51Z",
             "owner": "tmhglnd",
             "repo": "mercury",
-            "stars": 377
+            "stars": 375
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-17T11:10:42Z",
             "owner": "patriciogonzalezvivo",
             "repo": "glslViewer",
-            "stars": 5321
+            "stars": 5319
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2025-02-18T15:22:03Z",
             "owner": "Gargaj",
             "repo": "Bonzomatic",
-            "stars": 1500
+            "stars": 1499
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-05-06T14:13:52Z",
             "owner": "ideoforms",
             "repo": "isobar",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2020-08-19T19:45:08Z",
             "owner": "Qirky",
             "repo": "Troop",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -653,7 +653,7 @@
             "last_commit": "2023-10-12T00:41:58Z",
             "owner": "viznut",
             "repo": "IBNIZ",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-05-03T21:40:24Z",
             "owner": "ffd8",
             "repo": "P5LIVE",
-            "stars": 282
+            "stars": 281
           }
         },
         {
@@ -1126,7 +1126,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T20:03:30Z",
+            "last_commit": "2026-08-17T23:58:12Z",
             "owner": "humanbydefinition",
             "repo": "textmode.synth.js",
             "stars": 9
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15206
+            "stars": 15209
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2472
+            "stars": 2471
           }
         },
         {
@@ -1238,7 +1238,7 @@
             "last_commit": "2022-09-20T11:10:44Z",
             "owner": "pjagielski",
             "repo": "awesome-live-coding-music",
-            "stars": 646
+            "stars": 647
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:11:19.673Z",
+    "last_updated": "2026-08-18T16:14:36.023Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
     "enhanced_repository": "enhansome/enhansome-livecoding",
