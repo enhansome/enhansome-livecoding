@@ -410,7 +410,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) ⭐ 405 | 🐛 17 | 🌐 Python | 📅 2026-05-25 - A Python API for SuperCollider.
 * [Troop](https://github.com/Qirky/Troop) ⭐ 351 | 🐛 15 | 🌐 Python | 📅 2020-08-19 - Real-time collaborative live coding with FoxDot.
 * [IBNIZ](https://github.com/viznut/IBNIZ) ⭐ 346 | 🐛 6 | 🌐 C | 📅 2023-10-12 - A virtual machine for extremely compact low-level audiovisual programs, designed for demoscene productions and glitch art.
-* [Arepl](https://github.com/Almenon/AREPL-vscode) ⭐ 300 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-10 - Live coding Python in VSCode.
+* [Arepl](https://github.com/Almenon/AREPL-vscode) ⭐ 300 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-10 - Live coding Python in VSCode.
 * [P5LIVE](https://github.com/ffd8/p5live) ⭐ 281 | 🐛 7 | 🌐 JavaScript | 📅 2026-05-03 - p5.js collaborative live-coding vj environment!
 * [cl-collider](https://github.com/byulparan/cl-collider) ⭐ 263 | 🐛 1 | 🌐 Common Lisp | 📅 2026-08-11 - A SuperCollider client for CommonLisp.
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky) ⭐ 188 | 🐛 16 | 🌐 HTML | 📅 2026-05-04 - Use Gibber inside Max/MSP and Max4Live.
@@ -538,7 +538,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,212 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,063 | 🐛 13 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
 * [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) ⭐ 2,986 | 🐛 6 | 📅 2026-05-30 - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,471 | 🐛 25 | 📅 2026-05-27 - A categorized collection of awesome music libraries, tools, frameworks and software.
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,472 | 🐛 25 | 📅 2026-05-27 - A categorized collection of awesome music libraries, tools, frameworks and software.
 * [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music) ⭐ 647 | 🐛 6 | 📅 2022-09-20 - A curated list of awesome Music Live Coding Music environments, libraries and talks.
 * [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) ⚠️ Archived - A curated list of SuperCollider stuff.
 * [Awesome TidalCycles](https://github.com/tidalcycles/awesome-tidalcycles) ⭐ 127 | 🐛 0 | 📅 2024-06-02 - An awesome list about the pattern-based live coding system TidalCycles (or just 'Tidal' for short) and its close relatives
