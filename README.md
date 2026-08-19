@@ -72,15 +72,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 (In Alphabetical Order)
 
-* [Alda](https://github.com/alda-lang/alda) ⭐ 5,938 | 🐛 7 | 🌐 Go | 📅 2026-08-15 - A music programming language for musicians.
+* [Alda](https://github.com/alda-lang/alda) ⭐ 5,938 | 🐛 8 | 🌐 Go | 📅 2026-08-15 - A music programming language for musicians.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-* [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,063 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 - An esoteric live coding environment with two-dimensional syntax.
+* [ORCΛ](https://github.com/hundredrabbits/Orca) ⭐ 5,065 | 🐛 39 | 🌐 JavaScript | 📅 2025-11-16 - An esoteric live coding environment with two-dimensional syntax.
 
   `Windows | macOS | GNU/Linux` `audio` `FLOSS`
 
-* [hydra](https://github.com/hydra-synth/hydra) ⭐ 2,694 | 🐛 98 | 🌐 JavaScript | 📅 2026-04-25 - Live Coding networked visuals in the browser.
+* [hydra](https://github.com/hydra-synth/hydra) ⭐ 2,695 | 🐛 98 | 🌐 JavaScript | 📅 2026-04-25 - Live Coding networked visuals in the browser.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `visuals`
 
@@ -91,7 +91,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
 
-* [WASM-music](https://github.com/petersalomonsen/javascriptmusic/blob/master/wasmaudioworklet/README.md) ⭐ 427 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-12 - A live-coding environment for performance, composition and synthesis in the web-browser.
+* [WASM-music](https://github.com/petersalomonsen/javascriptmusic/blob/master/wasmaudioworklet/README.md) ⭐ 427 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-18 - A live-coding environment for performance, composition and synthesis in the web-browser.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `MIDI` `audio` `WebAudio`
 
@@ -103,7 +103,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS` `Chrome | Firefox` `audio` `visuals` `MaxMSP` `JavaScript`
 
-* [Sardine](https://github.com/Bubobubobubobubo/Sardine) ⭐ 322 | 🐛 19 | 🌐 Python | 📅 2025-05-19 A Python based live coding library (MIDI/OSC/SuperDirt).
+* [Sardine](https://github.com/Bubobubobubobubo/Sardine) ⭐ 323 | 🐛 19 | 🌐 Python | 📅 2025-05-19 A Python based live coding library (MIDI/OSC/SuperDirt).
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
 
@@ -151,7 +151,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   ` macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
-* [Limut](https://github.com/sdclibbery/limut) ⭐ 70 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-15 - Live code music and visuals in a web browser.
+* [Limut](https://github.com/sdclibbery/limut) ⭐ 70 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-18 - Live code music and visuals in a web browser.
 
   `Google Chrome | Mozilla Firefox | Safari` `web` `JavaScript` `FLOSS` `audio` `visuals`
 
@@ -535,9 +535,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Related lists
 
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,209 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
-* [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,061 | 🐛 13 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
-* [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) ⭐ 2,984 | 🐛 6 | 📅 2026-05-30 - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,212 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
+* [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,063 | 🐛 13 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
+* [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) ⭐ 2,986 | 🐛 6 | 📅 2026-05-30 - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
 * [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,471 | 🐛 25 | 📅 2026-05-27 - A categorized collection of awesome music libraries, tools, frameworks and software.
 * [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music) ⭐ 647 | 🐛 6 | 📅 2022-09-20 - A curated list of awesome Music Live Coding Music environments, libraries and talks.
 * [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) ⚠️ Archived - A curated list of SuperCollider stuff.
@@ -606,4 +606,4 @@ To the extent possible under law, [Mauro Lizaur](http://lvm.github.io) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

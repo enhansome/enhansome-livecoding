@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Quoting Wikipedia",
-      "items": [],
-      "title": "What is live coding"
-    },
-    {
       "description": "(In Alphabetical Order)",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23338323,
             "language": "Go",
             "last_commit": "2026-08-15T01:43:05Z",
             "owner": "alda-lang",
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121553439,
             "language": "JavaScript",
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5063
+            "stars": 5065
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112378220,
             "language": "JavaScript",
             "last_commit": "2026-04-25T13:24:14Z",
             "owner": "hydra-synth",
             "repo": "hydra",
-            "stars": 2694
+            "stars": 2695
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69284662,
             "language": "C",
             "last_commit": "2025-02-10T23:10:02Z",
             "owner": "Gwion",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33755552,
             "language": "Clojure",
             "last_commit": "2025-12-21T05:12:00Z",
             "owner": "Deep-Symmetry",
@@ -85,8 +85,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158125283,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T18:34:20Z",
+            "last_commit": "2026-08-18T19:04:08Z",
             "owner": "petersalomonsen",
             "repo": "javascriptmusic",
             "stars": 427
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73474932,
             "language": "C#",
             "last_commit": "2023-12-07T09:50:19Z",
             "owner": "carrierdown",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222665566,
             "language": "Max",
             "last_commit": "2026-08-17T15:02:51Z",
             "owner": "tmhglnd",
@@ -127,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517730135,
             "language": "Python",
             "last_commit": "2025-05-19T20:45:01Z",
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19017061,
             "language": "SuperCollider",
             "last_commit": "2015-12-14T19:45:17Z",
             "owner": "sofakid",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169822039,
             "language": "Svelte",
             "last_commit": "2025-01-27T00:22:25Z",
             "owner": "mimic-sussex",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201965356,
             "language": "C++",
             "last_commit": "2025-08-11T17:25:49Z",
             "owner": "pd3v",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360362856,
             "language": null,
             "last_commit": "2026-06-19T02:52:41Z",
             "owner": "nnirror",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 483377100,
             "language": "C++",
             "last_commit": "2026-02-05T20:01:17Z",
             "owner": "tarpit-collective",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141900623,
             "language": "JavaScript",
             "last_commit": "2026-05-21T20:58:09Z",
             "owner": "dktr0",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4251337,
             "language": "SuperCollider",
             "last_commit": "2015-03-05T21:10:01Z",
             "owner": "thormagnusson",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134021625,
             "language": "Ruby",
             "last_commit": "2025-08-11T06:27:52Z",
             "owner": "merongivian",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25494337,
             "language": "Lua",
             "last_commit": "2019-02-22T19:49:51Z",
             "owner": "elihugarret",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 305201998,
             "language": "Rust",
             "last_commit": "2025-06-27T09:26:04Z",
             "owner": "the-drunk-coder",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31620677,
             "language": "SuperCollider",
             "last_commit": "2024-10-25T15:01:45Z",
             "owner": "musikinformatik",
@@ -295,8 +310,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38452265,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T23:00:18Z",
+            "last_commit": "2026-08-18T22:52:16Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -309,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112937300,
             "language": "Haskell",
             "last_commit": "2026-06-14T20:06:27Z",
             "owner": "lnfiniteMonkeys",
@@ -323,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244615338,
             "language": "SuperCollider",
             "last_commit": "2025-05-26T11:17:52Z",
             "owner": "totalgee",
@@ -337,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65233587,
             "language": "TypeScript",
             "last_commit": "2017-08-02T17:56:58Z",
             "owner": "carrierdown",
@@ -351,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185988380,
             "language": "JavaScript",
             "last_commit": "2026-08-16T15:44:54Z",
             "owner": "Mdashdotdashn",
@@ -365,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186549899,
             "language": "C++",
             "last_commit": "2022-06-07T16:04:01Z",
             "owner": "nwoeanhinnogaehr",
@@ -379,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28670264,
             "language": "Java",
             "last_commit": "2016-05-13T08:41:51Z",
             "owner": "echolevel",
@@ -393,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331550844,
             "language": "Smalltalk",
             "last_commit": "2026-07-05T11:54:49Z",
             "owner": "lucretiomsp",
@@ -407,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393476544,
             "language": "PureScript",
             "last_commit": "2026-07-20T21:04:14Z",
             "owner": "dktr0",
@@ -421,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194266037,
             "language": "C++",
             "last_commit": "2023-08-18T14:38:05Z",
             "owner": "pd3v",
@@ -435,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110896898,
             "language": "SuperCollider",
             "last_commit": "2018-12-14T05:52:51Z",
             "owner": "lvm",
@@ -449,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74297676,
             "language": "JavaScript",
             "last_commit": "2016-11-26T18:21:41Z",
             "owner": "irritant",
@@ -463,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203512369,
             "language": "JavaScript",
             "last_commit": "2022-12-11T02:44:42Z",
             "owner": "rexmalebka",
@@ -477,24 +505,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66982058,
             "language": "JavaScript",
             "last_commit": "2017-04-11T17:11:07Z",
             "owner": "luiscript",
             "repo": "synth-x",
             "stars": 9
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Atomiix",
-          "description": "A re-implementation and re-invigoration of ixi lang. (inactive)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Improviz",
-          "description": "An environment for using and abusing primitive shapes and animated textures. (inactive/deprecated)",
-          "children": []
         }
       ],
       "title": "Languages"
@@ -509,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27135535,
             "language": "C++",
             "last_commit": "2026-08-17T11:10:42Z",
             "owner": "patriciogonzalezvivo",
@@ -523,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29756774,
             "language": "C++",
             "last_commit": "2025-02-18T15:22:03Z",
             "owner": "Gargaj",
@@ -537,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73515674,
             "language": "HTML",
             "last_commit": "2025-04-16T00:49:10Z",
             "owner": "hundredrabbits",
@@ -551,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56910316,
             "language": "C++",
             "last_commit": "2023-12-18T22:11:42Z",
             "owner": "crosire",
@@ -565,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54949999,
             "language": "JavaScript",
             "last_commit": "2024-01-15T11:30:54Z",
             "owner": "sleexyz",
@@ -579,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1004165857,
             "language": "JavaScript",
             "last_commit": "2026-04-10T00:42:58Z",
             "owner": "gruvw",
@@ -593,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163978787,
             "language": "C++",
             "last_commit": "2026-03-02T14:35:08Z",
             "owner": "ddovod",
@@ -607,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2155202,
             "language": "Python",
             "last_commit": "2026-05-06T14:13:52Z",
             "owner": "ideoforms",
@@ -621,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17463359,
             "language": "Python",
             "last_commit": "2026-05-25T05:31:10Z",
             "owner": "supriya-project",
@@ -635,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75213232,
             "language": "Python",
             "last_commit": "2020-08-19T19:45:08Z",
             "owner": "Qirky",
@@ -649,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3095424,
             "language": "C",
             "last_commit": "2023-10-12T00:41:58Z",
             "owner": "viznut",
@@ -663,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117485799,
             "language": "TypeScript",
             "last_commit": "2026-08-10T23:17:39Z",
             "owner": "Almenon",
@@ -677,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165936006,
             "language": "JavaScript",
             "last_commit": "2026-05-03T21:40:24Z",
             "owner": "ffd8",
@@ -691,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14809757,
             "language": "Common Lisp",
             "last_commit": "2026-08-11T12:39:38Z",
             "owner": "byulparan",
@@ -705,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48161885,
             "language": "HTML",
             "last_commit": "2026-05-04T00:25:37Z",
             "owner": "gibber-cc",
@@ -719,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75126668,
             "language": "JavaScript",
             "last_commit": "2026-01-11T17:24:48Z",
             "owner": "cannc4",
@@ -733,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117688,
             "language": "ChucK",
             "last_commit": "2026-02-05T18:33:36Z",
             "owner": "heuermh",
@@ -747,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79450962,
             "language": "C#",
             "last_commit": "2017-01-26T08:59:10Z",
             "owner": "keijiro",
@@ -761,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95965900,
             "language": "Ruby",
             "last_commit": "2022-04-24T11:55:09Z",
             "owner": "siaflab",
@@ -775,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429942947,
             "language": null,
             "last_commit": "2025-12-13T00:31:23Z",
             "owner": "algomusic",
@@ -789,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56968567,
             "language": "Clojure",
             "last_commit": "2019-02-11T17:39:34Z",
             "owner": "pjagielski",
@@ -803,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22898252,
             "language": "JavaScript",
             "last_commit": "2020-06-17T15:36:54Z",
             "owner": "dktr0",
@@ -817,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12054307,
             "language": "Lua",
             "last_commit": "2025-11-14T15:42:43Z",
             "owner": "sonoro1234",
@@ -831,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191580708,
             "language": null,
             "last_commit": "2019-09-21T12:57:30Z",
             "owner": "freeeco",
@@ -845,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4375318,
             "language": "Python",
             "last_commit": "2017-11-09T18:30:42Z",
             "owner": "kragen",
@@ -859,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17341387,
             "language": "Objective-C",
             "last_commit": "2020-06-17T15:44:21Z",
             "owner": "dktr0",
@@ -873,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78600354,
             "language": "C#",
             "last_commit": "2019-01-27T05:47:04Z",
             "owner": "moxuse",
@@ -887,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265880681,
             "language": "Python",
             "last_commit": "2020-07-08T23:57:47Z",
             "owner": "gabochi",
@@ -901,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64712469,
             "language": "C#",
             "last_commit": "2018-03-21T10:58:56Z",
             "owner": "lvm",
@@ -915,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118237569,
             "language": "Max",
             "last_commit": "2019-02-15T20:26:20Z",
             "owner": "madskjeldgaard",
@@ -929,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52394598,
             "language": null,
             "last_commit": "2016-03-01T20:14:11Z",
             "owner": "DoubleDensity",
@@ -943,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27841030,
             "language": "ChucK",
             "last_commit": "2023-09-27T17:46:01Z",
             "owner": "celestebetancur",
@@ -957,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30919961,
             "language": "Lua",
             "last_commit": "2018-10-04T15:23:47Z",
             "owner": "sharow",
@@ -971,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19306060,
             "language": "Java",
             "last_commit": "2015-09-24T19:12:48Z",
             "owner": "joelmoniz",
@@ -985,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112526198,
             "language": "SuperCollider",
             "last_commit": "2026-05-13T01:21:00Z",
             "owner": "punksnotdev",
@@ -999,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60753581,
             "language": null,
             "last_commit": "2016-06-11T01:53:43Z",
             "owner": "yecto",
@@ -1013,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56195987,
             "language": "Python",
             "last_commit": "2020-06-30T22:24:47Z",
             "owner": "lvm",
@@ -1027,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54870654,
             "language": "JavaScript",
             "last_commit": "2016-05-04T06:29:28Z",
             "owner": "yangsu",
@@ -1041,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61888526,
             "language": "Haskell",
             "last_commit": "2016-06-24T14:07:31Z",
             "owner": "fp4me",
@@ -1055,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440875213,
             "language": "Clojure",
             "last_commit": "2023-12-20T15:58:16Z",
             "owner": "omkamra",
@@ -1069,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154296692,
             "language": "SuperCollider",
             "last_commit": "2018-12-08T16:43:20Z",
             "owner": "calumgunn",
@@ -1083,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81674484,
             "language": "Python",
             "last_commit": "2020-07-07T23:16:22Z",
             "owner": "emlyn",
@@ -1097,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16058680,
             "language": "SuperCollider",
             "last_commit": "2026-08-13T05:49:53Z",
             "owner": "josecaos",
@@ -1111,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76525756,
             "language": "C++",
             "last_commit": "2018-11-10T06:00:23Z",
             "owner": "nwoeanhinnogaehr",
@@ -1125,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1120626117,
             "language": "TypeScript",
             "last_commit": "2026-08-17T23:58:12Z",
             "owner": "humanbydefinition",
@@ -1139,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363192557,
             "language": "C++",
             "last_commit": "2024-07-26T15:34:56Z",
             "owner": "pd3v",
@@ -1153,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27340742,
             "language": "SuperCollider",
             "last_commit": "2016-11-10T22:06:45Z",
             "owner": "supercollider-quarks",
@@ -1164,12 +1228,7 @@
       "title": "Libraries and tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "To Watch"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1178,11 +1237,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72586805,
             "language": "HTML",
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15209
+            "stars": 15212
           }
         },
         {
@@ -1192,11 +1252,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54681855,
             "language": "Shell",
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5061
+            "stars": 5063
           }
         },
         {
@@ -1206,11 +1267,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128105860,
             "language": null,
             "last_commit": "2026-05-30T16:10:00Z",
             "owner": "olilarkin",
             "repo": "awesome-musicdsp",
-            "stars": 2984
+            "stars": 2986
           }
         },
         {
@@ -1220,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47076519,
             "language": null,
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
@@ -1234,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73324531,
             "language": null,
             "last_commit": "2022-09-20T11:10:44Z",
             "owner": "pjagielski",
@@ -1248,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 191639577,
             "language": null,
             "last_commit": "2022-05-31T08:54:24Z",
             "owner": "madskjeldgaard",
@@ -1262,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535347554,
             "language": null,
             "last_commit": "2024-06-02T06:55:48Z",
             "owner": "tidalcycles",
@@ -1271,26 +1337,12 @@
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "This has been brought to you by these contributors.\n",
-      "items": [],
-      "title": "Acknowledgement"
-    },
-    {
-      "description": "This list follows the Contributor Covenant Code of Conduct v1.4.0, available here.\nTL;DR: Be nice to each other.",
-      "items": [],
-      "title": "Code of Conduct"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.\nTo the extent possible under law, Mauro Lizaur has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:14:36.023Z",
+    "last_updated": "2026-08-19T12:37:20.778Z",
     "original_repository": "toplap/awesome-livecoding",
+    "original_repository_id": 82000021,
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
     "enhanced_repository": "enhansome/enhansome-livecoding",
     "enhanced_repository_description": null,
