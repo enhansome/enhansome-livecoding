@@ -12,10 +12,10 @@
             "archived": false,
             "id": 23338323,
             "language": "Go",
-            "last_commit": "2026-08-15T01:43:05Z",
+            "last_commit": "2026-08-19T20:01:02Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5938
+            "stars": 5937
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5065
+            "stars": 5066
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-25T13:24:14Z",
             "owner": "hydra-synth",
             "repo": "hydra",
-            "stars": 2695
+            "stars": 2696
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 158125283,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T19:04:08Z",
+            "last_commit": "2026-08-19T19:13:05Z",
             "owner": "petersalomonsen",
             "repo": "javascriptmusic",
             "stars": 427
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 38452265,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T22:52:16Z",
+            "last_commit": "2026-08-19T23:05:38Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -528,7 +528,7 @@
             "archived": false,
             "id": 27135535,
             "language": "C++",
-            "last_commit": "2026-08-17T11:10:42Z",
+            "last_commit": "2026-08-19T23:55:56Z",
             "owner": "patriciogonzalezvivo",
             "repo": "glslViewer",
             "stars": 5319
@@ -606,7 +606,7 @@
             "last_commit": "2026-04-10T00:42:58Z",
             "owner": "gruvw",
             "repo": "strudel.nvim",
-            "stars": 474
+            "stars": 475
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15212
+            "stars": 15220
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5063
+            "stars": 5064
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2472
+            "stars": 2474
           }
         },
         {
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:14:53.946Z",
+    "last_updated": "2026-08-20T16:17:23.942Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_id": 82000021,
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
