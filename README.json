@@ -30,7 +30,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5067
+            "stars": 5068
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 158125283,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T18:30:34Z",
+            "last_commit": "2026-08-22T08:38:52Z",
             "owner": "petersalomonsen",
             "repo": "javascriptmusic",
             "stars": 427
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 38452265,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T07:21:15Z",
+            "last_commit": "2026-08-22T08:06:10Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -606,7 +606,7 @@
             "last_commit": "2026-04-10T00:42:58Z",
             "owner": "gruvw",
             "repo": "strudel.nvim",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-03-02T14:35:08Z",
             "owner": "ddovod",
             "repo": "jet-live",
-            "stars": 455
+            "stars": 456
           }
         },
         {
@@ -1188,7 +1188,7 @@
             "archived": false,
             "id": 1120626117,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:10:49Z",
+            "last_commit": "2026-08-21T20:57:10Z",
             "owner": "humanbydefinition",
             "repo": "textmode.synth.js",
             "stars": 9
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15225
+            "stars": 15231
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2474
+            "stars": 2475
           }
         },
         {
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:16:08.537Z",
+    "last_updated": "2026-08-22T16:02:27.004Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_id": 82000021,
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
