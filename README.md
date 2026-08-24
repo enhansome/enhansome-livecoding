@@ -535,7 +535,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Related lists
 
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,240 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,239 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 - Creative Coding, Generative Art, Interaction Design, Resources.
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,062 | 🐛 13 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
 * [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) ⭐ 2,990 | 🐛 6 | 📅 2026-05-30 - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
 * [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,480 | 🐛 25 | 📅 2026-05-27 - A categorized collection of awesome music libraries, tools, frameworks and software.
