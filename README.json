@@ -30,7 +30,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5069
+            "stars": 5070
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-05-19T20:45:01Z",
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 323
+            "stars": 324
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 38452265,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T13:21:49Z",
+            "last_commit": "2026-08-24T23:13:38Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -648,7 +648,7 @@
             "archived": false,
             "id": 17463359,
             "language": "Python",
-            "last_commit": "2026-05-25T05:31:10Z",
+            "last_commit": "2026-08-25T05:24:03Z",
             "owner": "supriya-project",
             "repo": "supriya",
             "stars": 405
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15239
+            "stars": 15241
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2480
+            "stars": 2481
           }
         },
         {
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:19:22.207Z",
+    "last_updated": "2026-08-25T05:52:12.341Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_id": 82000021,
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
