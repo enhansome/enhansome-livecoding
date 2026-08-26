@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T20:01:02Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5937
+            "stars": 5936
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5071
+            "stars": 5073
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-25T13:24:14Z",
             "owner": "hydra-synth",
             "repo": "hydra",
-            "stars": 2698
+            "stars": 2699
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2025-06-27T09:26:04Z",
             "owner": "the-drunk-coder",
             "repo": "megra.rs",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 38452265,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T23:13:38Z",
+            "last_commit": "2026-08-25T20:55:28Z",
             "owner": "sdclibbery",
             "repo": "limut",
             "stars": 70
@@ -531,7 +531,7 @@
             "last_commit": "2026-08-19T23:55:56Z",
             "owner": "patriciogonzalezvivo",
             "repo": "glslViewer",
-            "stars": 5321
+            "stars": 5322
           }
         },
         {
@@ -791,21 +791,6 @@
         },
         {
           "node_type": "item",
-          "title": "Live Coding Toolkit",
-          "description": "A suite of Pure Data abstractions (predefined functions) for musical live coding.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 429942947,
-            "language": null,
-            "last_commit": "2025-12-13T00:31:23Z",
-            "owner": "algomusic",
-            "repo": "Live-Coding-Toolkit-for-Pure-Data",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Petal",
           "description": "A small language on Sonic Pi with similar syntax to TidalCycles.",
           "children": [],
@@ -816,6 +801,21 @@
             "last_commit": "2022-04-24T11:55:09Z",
             "owner": "siaflab",
             "repo": "petal",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Coding Toolkit",
+          "description": "A suite of Pure Data abstractions (predefined functions) for musical live coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429942947,
+            "language": null,
+            "last_commit": "2025-12-13T00:31:23Z",
+            "owner": "algomusic",
+            "repo": "Live-Coding-Toolkit-for-Pure-Data",
             "stars": 95
           }
         },
@@ -1188,7 +1188,7 @@
             "archived": false,
             "id": 1120626117,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T20:08:07Z",
+            "last_commit": "2026-08-25T23:09:22Z",
             "owner": "humanbydefinition",
             "repo": "textmode.synth.js",
             "stars": 9
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15240
+            "stars": 15241
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5062
+            "stars": 5064
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2481
+            "stars": 2482
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2024-06-02T06:55:48Z",
             "owner": "tidalcycles",
             "repo": "awesome-tidalcycles",
-            "stars": 127
+            "stars": 126
           }
         }
       ],
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:20:55.892Z",
+    "last_updated": "2026-08-26T16:39:05.816Z",
     "original_repository": "toplap/awesome-livecoding",
     "original_repository_id": 82000021,
     "original_repository_sha": "f86818b13a633960c0406e532c2b6dd0b5409228",
