@@ -1,15 +1,29 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T00:10:19.307Z",
+    "last_updated": "2026-08-29T04:19:21.656Z",
     "original_repository_info": {
       "archived": true,
+      "description": "All things livecoding",
+      "homepage": "https://codeberg.org/toplap/awesome-livecoding",
       "id": 82000021,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-26T22:05:26Z",
+      "open_issues": 5,
       "owner": "toplap",
       "repo": "awesome-livecoding",
-      "stars": 3276
+      "stars": 3276,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "coding",
+        "graphics",
+        "live",
+        "livecoding",
+        "music",
+        "synthesis"
+      ]
     },
     "original_repository_sha": "0ea4b06d13c27aec8bb30793de33748238255496",
     "enhanced_repository": "enhansome/enhansome-livecoding",
