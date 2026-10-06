@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-05T22:12:45.935Z",
+    "last_updated": "2026-10-06T10:51:03.011Z",
     "original_repository_info": {
       "archived": true,
       "description": "All things livecoding",
@@ -13,7 +13,7 @@
       "open_issues": 5,
       "owner": "toplap",
       "repo": "awesome-livecoding",
-      "stars": 3280,
+      "stars": 3279,
       "topics": [
         "awesome",
         "awesome-list",
