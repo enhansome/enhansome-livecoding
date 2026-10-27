@@ -8,4 +8,4 @@ This list has now [moved to codeberg](https://codeberg.org/toplap/awesome-liveco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
